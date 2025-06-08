@@ -1,6 +1,6 @@
 # NextGen-cafe
 
-##🌈**Color System**
+#🌈**Color System**
   
   Palette:
 burlywood: Used as the body background to give a warm, earthy tone.
@@ -9,10 +9,11 @@ whitesmoke, #ffffff: For clean, modern section backgrounds (hero, testimonials, 
 Rationale:
 A mix of warm and professional tones was chosen to reflect a cozy but modern café atmosphere.
   
-  ##💡**Breakpoint Logic (Responsive Design)**
+  #💡**Breakpoint Logic (Responsive Design)**
 Breakpoints:
 max-width: 1200px → switches to mobile view.
-#3✨**Creative Divergence from the Mockup**
+  
+  #✨**Creative Divergence from the Mockup**
 1. Layout Enhancements:
 Added rounded corners (border-radius) across all sections for a softer, modern look.
 Introduced backgrounds like whitesmoke and wheat to break visual monotony.
